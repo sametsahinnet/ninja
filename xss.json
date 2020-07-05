@@ -1,0 +1,8 @@
+[
+    { "platform": "platform3", "twitter_handle": "jack", "message": "bypass", "bug": "bug1", "rate": "37"},
+    { "platform": "platform2", "twitter_handle": "jack", "message": "bugchain", "bug": "bug2", "rate": "13"},
+    { "platform": "platform2", "twitter_handle": "jack", "message": "learnearntogether", "rate": "37"},
+    { "platform": "platform1", "twitter_handle": "jack", "message": "teaminvite", "rate": "13"},
+    { "platform": "platform1", "twitter_handle": "jack", "message": "bypass", "bug": "bug3", "rate": "37"},
+    { "platform": "platform1", "twitter_handle": "jack", "message": "bugchain", "bug": "bug2", "rate": "13"}
+]
